@@ -24,8 +24,9 @@
     height: 100vh;
     top : 0;
     /* left: 40%; */
-    width: 63vw;
-
+    /* width: 63vw; */
+    width:490px;
+    /* border: 2px solid white; */
     display: flex;
     flex-direction: column;
     justify-content: space-around;
